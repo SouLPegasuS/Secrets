@@ -1,0 +1,41 @@
+
+body {
+  background-color: #E8ECEF;
+}
+
+.centered {
+    padding-top: 150px;
+    text-align: center;
+}
+
+.my-secrets .row{
+  background-color: #000;
+}
+
+.secret-text {
+  margin-top: 16px;
+  margin-bottom: 0px;
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
+
+.secret-container{
+  margin: 16px auto;
+}
+
+.secret-container .secret-text{
+  text-align: left;
+  margin: auto 0;
+}
+
+.secret-delete-btn{
+  background-color: #000;
+  margin: auto 0!important;
+}
+
+.secret-delete-btn button{
+  color: #fff;
+}
+
