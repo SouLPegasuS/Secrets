@@ -22,19 +22,21 @@
 * Implemented **session** based user authentication using **PassportJS** and implemented **Google OAuth**.
 * User remains logged in untill the cookie gets destroyed or the user logs out himself.
 
+<hr>
+
 ### Screenshots:
 
-####Home page
+#### Home page
 ![Home](https://user-images.githubusercontent.com/57177498/120312418-504e8a80-c2f6-11eb-8b96-fc07cf10afed.jpg)
 
-####Login page
+#### Login page
 ![Login](https://user-images.githubusercontent.com/57177498/120312570-83911980-c2f6-11eb-89b8-a0a353bda98c.jpg)
 
-####Submit secret page
+#### Submit secret page
 ![Submit](https://user-images.githubusercontent.com/57177498/120312652-a28fab80-c2f6-11eb-897f-867b3eb80019.jpg)
 
-####My secrets page
+#### My secrets page
 ![mySecrets](https://user-images.githubusercontent.com/57177498/120312857-e08ccf80-c2f6-11eb-92c5-c32398ab259c.jpg)
 
-####Read secrets page
+#### Read secrets page
 ![Secrets](https://user-images.githubusercontent.com/57177498/120312959-02865200-c2f7-11eb-9f67-363a6a4549aa.jpg)
